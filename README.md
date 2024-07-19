@@ -1,1 +1,1 @@
- this   provides a custom implementation of the  data structure in Java with  or witout using javacollection framework
+ this   provides a custom implementation of the  data structure and algorith in Java with  or witout using javacollection framework
